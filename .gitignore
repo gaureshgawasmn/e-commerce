@@ -1,0 +1,66 @@
+# Maven build directory
+target/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# VS Code project files
+.vscode/
+
+# Gradle wrapper files (if you use Gradle alongside Maven)
+.gradle/
+build/
+
+# Dependency directories
+/.mvn/
+.mvn/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Spring Boot specific files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# Maven wrapper files (if you use the Maven wrapper)
+mvnw
+mvnw.cmd
+
+# Build files
+target/
+
+# .env or environment variable files (optional, if you use them)
+.env
+
+# Temporary file directories
+tmp/
